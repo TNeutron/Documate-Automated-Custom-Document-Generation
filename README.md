@@ -8,7 +8,7 @@ Start by Opening your Target Document in Adobe Illustrator.
 
 
 ### Step 2: Make a List
-Make an excel file "NameList'xlsx" with list of names you want to place in the target. Fill it up like in the picture.
+Make an excel file "NameList'xlsx" with list of names you want to place in the target. Fill it up like in the picture. (or just copy stuff you need to put from your Google Sheets ;) )
 
 
 <img src="https://i.imgur.com/bRDLLP1.png" width="400" height="300">
