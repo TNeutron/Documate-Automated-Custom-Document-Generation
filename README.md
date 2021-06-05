@@ -1,4 +1,4 @@
-# Documate-Automated-Custom-Document-Generation
+# Documate: Automated Custom Document Generator
 This is a python script for automating the document generation process. This script can be extremely effective for tasks where you need to create custom certificates or 1000 unique ID cards for your organization. I am providing a step-by-step instructions regarding how to use this script, incase you think it can provide you with any utility.
 
 ### Step 1: Open in Adobe Illustrator
